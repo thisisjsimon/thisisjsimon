@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, thisisjsimon</h1>
 <h3 align="center">I'm a Student and Hobby Coder from Germany</h3>
 
-- 🔭 I’m currently coding on [SiteSniffer](https://github.com/thisisjsimon/SiteSniffer)
-
-- 🌱 I’m currently coding in **Python**
+- I'm currently developing [einfachinfo.de]([https://github.com/einfachinfo/einfachinfo.de]), an open-source learning platform for computer science that's still in its early stages. We're building something great, and I'm excited to see it come to life! --> [jonahsimon.de]([https://www.jonahsimon.de])
 
 
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
